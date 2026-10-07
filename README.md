@@ -16,8 +16,8 @@
 
 | 项目 | 说明 |
 |---|---|
-| [向晚问思](https://github.com/lierbai618-pixel/xiangwan-wensi) | RAG 思辨微信小程序 · 已上线 · 已过 ICP 备案 |
-| [CrewAI 多智能体学习助手](https://github.com/lierbai618-pixel/crewai-study-assistant) | 6 Agent 协作 · 文档自动转知识库 |
+| [向晚问思](https://github.com/fanchuanxun/xiangwan-wensi) | RAG 思辨微信小程序 · 已上线 · 已过 ICP 备案 |
+| [CrewAI 多智能体学习助手](https://github.com/fanchuanxun/crewai-study-assistant) | 6 Agent 协作 · 文档自动转知识库 |
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 联系
 
-- 邮箱：19836198923@163.com
+- 邮箱：fanchuanxun@163.com
 - 微信小程序「向晚问思」：扫码体验（个人主体未认证版本，暂不支持微信内搜索）
 
 <img src="assets/miniprogram-qrcode.jpg" width="200" alt="向晚问思小程序码" />
